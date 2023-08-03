@@ -5,4 +5,4 @@ Statistical arbitrage script to analyze stock historical data and backtest long/
 ## example output:
 ![image](https://github.com/wbalkan/stat-arb/assets/96204851/8ca2f934-90fa-43e7-ac00-ff3a9499f65b)
 
-RTX (red line) long and short buy/sell signals plotted against average of LMT and RTX (black line). Holding results in loss: -1.319808317060179 points (normalized) while statistical arbitrage strategy results in gain: +11.924843796603668 points (normalized)
+RTX price (red line) with long and short buy/sell signals plotted against average of LMT and RTX (black line). Holding results in loss: -1.319808317060179 points (normalized) while statistical arbitrage strategy results in gain: +11.924843796603668 points (normalized)
